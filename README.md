@@ -1,2 +1,2 @@
 # aprentis
-Aprentis PaaS dox and code examples
+Aprentis PaaS dox, code and demos examples
